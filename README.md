@@ -17,10 +17,10 @@ This project provides a confusion matrix visualization for a multiclass classifi
 ## True Class Labels (Unbalanced):
 ![image](https://github.com/user-attachments/assets/61fd5de5-8d06-4a40-85ff-5e5a16148562)
 
-##Unbalanced Class Labels - NoFraud and Fraud:
+## Unbalanced Class Labels - NoFraud and Fraud:
 ![image](https://github.com/user-attachments/assets/651759a9-86ec-4aeb-bd88-5eaf6745ea07)
 
-# Here is Confusion Matrix terminology illustrated with our fraud prediction scenario.
+## Here is Confusion Matrix terminology illustrated with our fraud prediction scenario.
 #### True Positives (TP) - Fraud correctly predicted
 #### False Positives (FP) - Fraud wrongly predicted
 #### True Negatives (TN) - NoFraud correctly predicted
@@ -29,12 +29,12 @@ This project provides a confusion matrix visualization for a multiclass classifi
 # 🛠️ Dependencies
 ### This project requires the following Python libraries:
 
-scikit-learn
-matplotlib
-seaborn
-numpy
-pandas
-notebook (for Jupyter)
+#### scikit-learn
+#### matplotlib
+#### seaborn
+#### numpy
+#### pandas
+#### notebook (for Jupyter)
 
 
 
